@@ -1,0 +1,26 @@
+Meta Ads Campaign Analysis
+
+Campaign objective: Lead Generation
+Industry: Home Services
+Location: Local Area
+Daily Budget: 50 EUR
+
+Metrics:
+- CTR: 0.9%
+- CPL: 32 EUR
+- Leads: 12
+- Reach: 14200
+- Impressions: 21500
+
+Main issues:
+- CTR is below optimal level, suggesting weak creative performance
+- CPL is relatively high for a lead generation campaign
+- Audience targeting may be too broad or not well segmented
+- The value proposition is not immediately clear in the ad
+
+Recommendations:
+- Test new creatives with stronger hooks in the first 3 seconds
+- Improve clarity of the offer and call to action
+- Segment the audience based on intent or behavior
+- Run A/B tests with different messaging angles
+- Re-evaluate performance after 5 days
