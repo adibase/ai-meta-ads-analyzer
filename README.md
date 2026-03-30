@@ -19,5 +19,7 @@ This project is a base for integrating advanced AI models such as Claude to impr
 ## Status
 Working prototype
 
+Tested on multiple lead generation campaigns in local markets.
+
 ## Goal
 Build an AI-assisted decision system for analyzing and optimizing advertising campaigns.
