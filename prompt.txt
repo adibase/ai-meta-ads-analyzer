@@ -1,0 +1,16 @@
+Analyze the following Meta Ads campaign data.
+
+Your task:
+- identify the main performance issues
+- explain what is not working
+- suggest practical improvements
+- be direct and concise
+- avoid generic marketing advice
+
+Focus on:
+- CTR
+- CPL
+- conversions
+- targeting
+- creative effectiveness
+- offer clarity
